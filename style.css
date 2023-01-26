@@ -741,8 +741,10 @@ nav.mobile-nav,
         font-size: 12px;
     }
     .hero-section .right{
-       diplay:none;
+       display:none;
     }
+   
+        
     .achievement-card h3{
         font-size: 14px;
     }
