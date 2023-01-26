@@ -747,7 +747,7 @@ nav.mobile-nav,
         margin-bottom:28px;
     }
     .hero-section .achievement-cards{
-       margin-top: 10px;
+        margin-top: 10px;
         margin-bottom: 10px;
     }
     h2{
@@ -789,7 +789,7 @@ nav.mobile-nav,
     footer form .submit-button {
         top:130%;
         left:40%;
-       transform:translate(-65%);
+        transform:translate(-65%);
         color:var(--orange--color) ;
         background: var(--light--color);
     }
