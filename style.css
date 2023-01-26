@@ -740,14 +740,10 @@ nav.mobile-nav,
      .hero-section .left p{
         font-size: 12px;
     }
-    .hero-section .right img{
+    .hero-section .right{
        diplay:none;
     }
-    .hero-section .right{
-        overflow: hidden;
-        transform:translateX(30px);
-       
-    }
+    
     
     .achievement-card h3{
         font-size: 14px;
