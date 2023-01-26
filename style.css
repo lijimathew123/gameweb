@@ -737,22 +737,18 @@ nav.mobile-nav,
 
     }
     .hero-section .right img{
-        height: 400px;
-        transform:translateX(50px);
+       diplay:none;
     }
-    .hero-section .right{
-        overflow: hidden;
-        transform:translateX(30px);
-       
-    }
+    
     .achievement-card h3{
-        font-size: 30px;
+        font-size: 14px;
     }
     .hero-section .achievement-card{
-        margin-bottom:48px;
+        margin-bottom:28px;
     }
     .hero-section .achievement-cards{
-        margin:0;
+       margin-top: 10px;
+        margin-bottom: 10px;
     }
     h2{
         font-size: 30px;
@@ -792,8 +788,10 @@ nav.mobile-nav,
     }
     footer form .submit-button {
         top:130%;
-        left:50%;
-        transform:translate(-50%);
+        left:40%;
+       transform:translate(-65%);
+        color:var(--orange--color) ;
+        background: var(--light--color);
     }
     footer .copy-write{
         margin-top:80px;
